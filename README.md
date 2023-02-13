@@ -16,7 +16,7 @@ This is a simple whatsapp bomobing tools which crashes your victim whatsapp acco
 <p>pkg upgrade </p>
 <p>pkg install git </p>
 <p>pkg install python </p>
-<p>git clone https://github.com/Abbakarhacker/WhatsApp bomb.git</p>
+<p>git clone https://github.com/Abbakarhacker/WhatsApp-bomb.git</p>
  <p> cd WhatsApp-Bomb</p>
 <p>  python3 Whatsapp-Bomb.py</p>
 
